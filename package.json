@@ -8,16 +8,8 @@
     "dev": "nodemon main.js",
     "start": "node main.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlanNguyen981805/json-server-demo.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AlanNguyen981805/json-server-demo/issues"
-  },
-  "homepage": "https://github.com/AlanNguyen981805/json-server-demo#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   },
