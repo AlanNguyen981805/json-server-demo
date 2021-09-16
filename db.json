@@ -1,35 +1,10 @@
 {
-  "categories": [
-    {
-      "id": 1,
-      "name": "Dien thoai"
-    }
-  ],
   "products": [
     {
       "id": 1,
       "name": "iphone x",
-      "categoryId": 1
-    },
-    {
-      "id": 1,
-      "name": "iphone x",
-      "categoryId": 1
-    },
-    {
-      "id": 1,
-      "name": "iphone x",
-      "categoryId": 1
-    },
-    {
-      "id": 1,
-      "name": "iphone x",
-      "categoryId": 1
-    },
-    {
-      "id": 2,
-      "name": "iphone xxx",
-      "categoryId": 3
+      "email": "hiepg198@gmail.com",
+      "phone": "0898123123"
     }
   ]
 }
